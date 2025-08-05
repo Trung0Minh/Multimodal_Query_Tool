@@ -43,4 +43,4 @@ data.zip
 ```
 
 Each folder can be empty, but **must exist** for the app to work properly.
-After uploading, the app will index your data for multimodal retrieval and Q&A.
+After uploading, the app will index your data for multimodal retrieval.
