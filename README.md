@@ -6,6 +6,18 @@ A small project I built while preparing for AIC. It combines **retrieval-augment
 
 ---
 
+## 🔑 Generate Hugging Face API Token
+
+To use Hugging Face-hosted models, you need an access token:
+
+1. Go to your [Hugging Face account settings](https://huggingface.co/settings/tokens).
+2. Click **"New token"**, choose the desired role (e.g., `read`), and generate the token.
+3. Copy the token and paste it into the `.env.example` file (or rename it to `.env` if needed).
+
+This token is required for authenticated access to Hugging Face APIs during runtime.
+
+---
+
 ## 📦 Run Locally
 
 ### 1. Clone the repository
