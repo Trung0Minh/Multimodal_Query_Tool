@@ -45,7 +45,7 @@ After running, a local Gradio link will be generated (e.g. `http://127.0.0.1:786
 
 ## 📁 Data Structure
 
-Upload your own data in a `.zip` file with the following folder structure:
+Upload your own data in a `.zip` file (filename can be anything) with the following folder structure:
 
 ```
 *.zip
