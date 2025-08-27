@@ -1,6 +1,6 @@
-# Multimodal-RAG
+# Multimodal-Query_Tool
 
-A small project I built while preparing for AIC. It combines **retrieval-augmented generation (RAG)** with **multimodal data** (text, images, audio) to allow personalized retrieval tasks over your own dataset.
+A small project I built while preparing for AIC. It  allow personalized retrieval tasks over your own dataset.
 
 👉 Try the demo: [Hugging Face Space](https://huggingface.co/spaces/trungmin/Multimodal-RAG)
 
